@@ -1,0 +1,22 @@
+Кстати, вот измеренные ARTA параметры:
+Loudspeaker Parameters
+Fs = 48.52 Hz
+Re = 3.50 ohms[dc]
+Le = 0.00 uH
+L2 = 0.00 uH
+R2 = 0.00 ohms
+Qt = 0.60
+Qes = 0.64
+Qms = 8.29
+Mms = 13.53 grams
+Rms = 0.497747 kg/s
+Cms = 0.000795 m/N
+Vas = 32.16 liters
+Sd= 169.72 cm^2
+Bl = 4.733098 Tm
+ETA = 0.55 %
+Lp(2.83V/1m) = 93.08 dB
+
+Closed Box Method:
+Box volume = 29.50 liters
+Diameter= 14.70 cm
