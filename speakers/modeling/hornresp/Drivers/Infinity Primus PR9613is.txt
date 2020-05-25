@@ -1,0 +1,21 @@
+Infinity Primus PR9613is
+
+Sd=261.60
+Bl=5.78
+Cms=1.87E-04
+Rms=1.35
+Mmd=48.83
+Le=0.82
+Re=2.76
+Pmax=50
+Xmax=3.0
+Re'=0.00
+Leb=0.00
+Le=0.00
+Ke=0.00
+Rss=0.00
+Rms=0.00
+Ams=0.00E+00
+LossyLe=0
+SemiInductance=0
+Damping=0

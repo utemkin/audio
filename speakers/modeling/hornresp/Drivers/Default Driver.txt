@@ -1,0 +1,21 @@
+Default Driver
+
+Sd=350.00
+Bl=18.00
+Cms=4.00E-04
+Rms=4.00
+Mmd=20.00
+Le=1.00
+Re=6.00
+Pmax=100
+Xmax=5.0
+Re'=0.00
+Leb=0.00
+Le=0.00
+Ke=0.00
+Rss=0.00
+Rms=0.00
+Ams=0.00E+00
+LossyLe=0
+SemiInductance=0
+Damping=0
